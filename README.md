@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋 I am Pascal
 
-<!--
-**pascalkania/pascalkania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java ☕ | Typescript | Dart & Flutter
 
-Here are some ideas to get you started:
+- 💬 Ask me about Java, Javascript, Typescript, Dart & Flutter
+- 😄 Hobbies: Sailing, Cooking, Guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>GitHub Statistics</summary>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pascalkania&theme=tokyonight" alt="Stats"/>
+</details>
+
+![Visitor Count](https://profile-counter.glitch.me/pascalkania/count.svg)
